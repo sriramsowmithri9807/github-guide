@@ -96,7 +96,7 @@ GitHub, powered by Git, is a robust platform for version control and collaborati
 
 ### Git Aliases
 
-#### 26. **`git config --global alias.<alias_name> <git_command>`**
+#### 26. **`git config --global - alias.<alias_name> <git_command>`**
     - Creates aliases for frequently used commands.
 
 ### Conclusion
